@@ -1,0 +1,12 @@
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\DAL\bin\Debug\DAL.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\DAL\bin\Debug\DAL.pdb
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\DAL\obj\Debug\DAL.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\DAL\obj\Debug\DAL.pdb
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\DAL\bin\Debug\DAL.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\DAL\bin\Debug\DAL.pdb
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\DAL\obj\Debug\DAL.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\DAL\obj\Debug\DAL.pdb

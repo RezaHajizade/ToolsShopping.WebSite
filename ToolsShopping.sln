@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ToolsShopping", "ToolsShopping\", "{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{33385142-2953-4ca1-8557-cf1dbb6665f1}|BLL.dll;{d761ea37-80af-4b7f-bf79-2cbcef13425a}|DAL.dll;{dd6b18d8-e88e-466e-8715-a3fa8bef9eb9}|UI.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_14392"
+		Debug.AspNetCompiler.PhysicalPath = "ToolsShopping\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14392\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_14392"
+		Release.AspNetCompiler.PhysicalPath = "ToolsShopping\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14392\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "14392"
+		SlnRelativePath = "ToolsShopping\"
+		DefaultWebSiteLanguage = "Visual C#"
+		StartServerOnDebug = "false"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Presentation", "01-Presentation", "{B8A4600B-9A76-40EC-A7A8-8D7559C92894}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Business Logic", "02-Business Logic", "{5DC948E9-D287-47DA-A948-2EE23C59DA5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Data Access", "03-Data Access", "{42AF561E-9394-49E8-8D09-B7DC543A8F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{DD6B18D8-E88E-466E-8715-A3FA8BEF9EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D761EA37-80AF-4B7F-BF79-2CBCEF13425A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{33385142-2953-4CA1-8557-CF1DBB6665F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DD6B18D8-E88E-466E-8715-A3FA8BEF9EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6B18D8-E88E-466E-8715-A3FA8BEF9EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6B18D8-E88E-466E-8715-A3FA8BEF9EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6B18D8-E88E-466E-8715-A3FA8BEF9EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D761EA37-80AF-4B7F-BF79-2CBCEF13425A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D761EA37-80AF-4B7F-BF79-2CBCEF13425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D761EA37-80AF-4B7F-BF79-2CBCEF13425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D761EA37-80AF-4B7F-BF79-2CBCEF13425A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33385142-2953-4CA1-8557-CF1DBB6665F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33385142-2953-4CA1-8557-CF1DBB6665F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33385142-2953-4CA1-8557-CF1DBB6665F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33385142-2953-4CA1-8557-CF1DBB6665F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF} = {B8A4600B-9A76-40EC-A7A8-8D7559C92894}
+		{DD6B18D8-E88E-466E-8715-A3FA8BEF9EB9} = {B8A4600B-9A76-40EC-A7A8-8D7559C92894}
+		{D761EA37-80AF-4B7F-BF79-2CBCEF13425A} = {42AF561E-9394-49E8-8D09-B7DC543A8F70}
+		{33385142-2953-4CA1-8557-CF1DBB6665F1} = {5DC948E9-D287-47DA-A948-2EE23C59DA5B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE715FFF-2685-4C1A-B0B4-4E81A89C11CD}
+	EndGlobalSection
+EndGlobal

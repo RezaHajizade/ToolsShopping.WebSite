@@ -1,0 +1,24 @@
+C:\Users\AMINSYSTEM\Desktop\ToolsShopping\ToolsShopping 2\UI\bin\Debug\UI.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShopping\ToolsShopping 2\UI\bin\Debug\UI.pdb
+C:\Users\AMINSYSTEM\Desktop\ToolsShopping\ToolsShopping 2\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShopping\ToolsShopping 2\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShopping\ToolsShopping 2\UI\obj\Debug\UI.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShopping\ToolsShopping 2\UI\obj\Debug\UI.pdb
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\bin\Debug\UI.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\bin\Debug\UI.pdb
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\obj\Debug\UI.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping2\UI\obj\Debug\UI.pdb
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\bin\Debug\UI.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\bin\Debug\UI.pdb
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\obj\Debug\UI.dll
+C:\Users\AMINSYSTEM\Desktop\ToolsShoppingproject\ToolsShopping4\UI\obj\Debug\UI.pdb

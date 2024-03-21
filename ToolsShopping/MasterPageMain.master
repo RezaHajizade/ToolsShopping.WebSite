@@ -1,0 +1,175 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageMain.master.cs" Inherits="MasterPageMain" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>فروشگاه ابزار</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="fonts.css" />
+    <link rel="shortcut icon" href="images/Icon/icons8-tools-40.png" type="image/x-icon" />
+    <!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="iecss.css" />
+<![endif]-->
+    <script type="text/javascript" src="js/boxOver.js"></script>
+
+    <!-- Insert to your webpage before the </head> -->
+    <script src="sliderengine/jquery.js"></script>
+    <script src="sliderengine/amazingslider.js"></script>
+    <link rel="stylesheet" type="text/css" href="sliderengine/amazingslider-1.css">
+    <script src="sliderengine/initslider-1.js"></script>
+    <!-- End of head section HTML codes -->
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="main_container">
+            <div id="header">
+                <div class="top_right">
+
+                    <div class="big_banner">
+                        <a href="#">
+                            <img src="images/banner728.jpg" alt="" border="0" /></a>
+                    </div>
+                </div>
+                <div id="logo">
+                    <a href="#">
+                        <img src="images/logo.png" alt="" border="0" width="182" height="85" /></a>
+                </div>
+            </div>
+            <div id="main_content">
+                <div id="menu_tab">
+                    <ul class="menu">
+                        <li><a href="Default.aspx" class="nav">صفحه اصلی</a></li>
+                        <li class="divider"></li>
+                        <li><a href="Error404.aspx" class="nav">ابزارهای بادی</a></li>
+                        <li class="divider"></li>
+                        <li><a href="Error404.aspx" class="nav">ابزارهای نجاری</a></li>
+                        <li class="divider"></li>
+                        <li><a href="Error404.aspx" class="nav">ابزارهای آهنگری</a></li>
+                        <li class="divider"></li>
+                        <li><a href="Error404.aspx" class="nav">ابزارهای نقاشی</a></li>
+                        <li class="divider"></li>
+                        <li><a href="Error404.aspx" class="nav">ابزار های دستی </a></li>
+                        <li class="divider"></li>
+                        <li><a href="Error404.aspx" class="nav">درباره ما</a></li>
+                        <li class="divider"></li>
+                        <li><a href="Error404.aspx" class="nav">ارتباط با ما</a></li>
+                    </ul>
+                </div>
+                <!-- end of menu tab -->
+                <!--  <div class="crumb_navigation"> Navigation: <span class="current">Home</span> </div>-->
+                <br />
+                <div class="left_content">
+                    <div class="title_box">بخش های سایت</div>
+                    <ul class="left_menu" dir="rtl">
+                        <asp:DataList ID="DataListClass" runat="server" DataKeyField="ClassID" Width="100%">
+                            <ItemTemplate>
+
+                                <li class="odd"><a href="<%# Eval("ClassID", "ClassPage.aspx?ClassID={0}") %>">
+                                    <asp:Label ID="ClassNameLabel" runat="server" Text='<%# Eval("ClassName") %>' /></a></li>
+                            </ItemTemplate>
+                        </asp:DataList>
+                    </ul>
+<%--                    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ShopingFaradarsConnectionString3 %>" SelectCommand="SELECT [ClassID], [ClassName] FROM [Tb_Class]" ProviderName="<%$ ConnectionStrings:ShopingFaradarsConnectionString3.ProviderName %>"></asp:SqlDataSource>--%>
+
+                    <div class="title_box">پیشنهاد ویژه</div>
+                    <div class="border_box">
+                        <div class="product_title"><a href="#">نام کالا</a></div>
+                        <div class="product_img">
+                            <a href="#">
+                                <img src="images/p1.jpg" alt="" border="0" /></a>
+                        </div>
+                        <div class="prod_price">
+                            <span class="price">2000</span><br />
+                            <del class="reduce">1000</del>
+                        </div>
+                    </div>
+                    <div class="title_box">Newsletter</div>
+                    <div class="border_box">
+                        <input type="text" name="newsletter" class="newsletter_input" value="your email" />
+                        <a href="#" class="join">subscribe</a>
+                    </div>
+                    <div class="banner_adds">
+                        <a href="#">
+                            <img src="images/Baner/bann2.jpg" alt="" border="0" /></a>
+                    </div>
+                </div>
+                <!-- end of left content -->
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+
+                <!-- end of center content -->
+                <div class="right_content">
+                    <div class="title_box">جستجو</div>
+                    <div class="border_box" dir="rtl">
+                        <input type="text" name="newsletter" class="newsletter_input" value="عبارت" />
+                        <a href="#" style="text-align: left; margin: 0px 0 5px 10px; padding: 2px 8px 6px 8px; text-decoration: none; color: #169ECC; font-family: 'BHom'; font-size: 14px;">جستجو</a>
+                    </div>
+                    <div class="shopping_cart" dir="rtl">
+                        <div class="title_box">کارت خرید</div>
+                        <div class="cart_details">
+                            تعداد خرید 4 مورد
+                            <br />
+                            <span class="border_cart"></span><span class="price">200,000</span> : مجموع 
+                        </div>
+                        <div class="cart_icon">
+                            <a href="#">
+                                <img src="images/shoppingcart.png" alt="" width="35" height="35" border="0" /></a>
+                        </div>
+                    </div>
+                    <div class="border_box">
+                        <div class="prod_price"></div>
+                        <br />
+                    </div>
+
+                    <div class="title_box" style="text-align: center;">شرکت ها </div>
+                    <ul class="left_menu" dir="rtl">
+
+
+
+
+                        <asp:DataList ID="DataListBrand" runat="server" DataKeyField="BrandID" Width="100%">
+                            <ItemTemplate>
+                                <li class="odd"><a href="#">
+                                    <asp:Label Text='<%# Eval("BrandName") %>' runat="server" ID="BrandNameLabel" /></a></li>
+
+                            </ItemTemplate>
+                        </asp:DataList>
+
+                    </ul>
+
+                    <br />
+<%--                    <asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:ShopingFaradarsConnectionString5 %>" SelectCommand="SELECT [BrandID], [BrandName] FROM [Tb_Brand]" ProviderName="<%$ ConnectionStrings:ShopingFaradarsConnectionString5.ProviderName %>"></asp:SqlDataSource>--%>
+
+                    <div class="banner_adds">
+                        <a href="#">
+                            <img src="images/Baner/bann1.jpg" alt="" border="0" /></a>
+                    </div>
+                </div>
+                <!-- end of right content -->
+            </div>
+            <!-- end of main content -->
+            <div class="footer">
+                <div class="left_footer">
+                    <img src="images/footer_logo.png" alt="" width="89" height="42" />
+                </div>
+                <div class="center_footer">
+                    کلیه حقوق مادی و معنوی این سایت متعلق به فروشگاه ابزار می باشد<br />
+                </div>
+                <div class="right_footer"></div>
+            </div>
+        </div>
+        <!-- end of main_container -->
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+

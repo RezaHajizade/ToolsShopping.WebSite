@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping|c:\\users\\aminsystem\\desktop\\my project\\toolsshoppingproject\\toolsshopping5\\toolsshopping\\singlepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping|solutionrelative:toolsshopping\\singlepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping|C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\toolsshopping\\masterpagemain.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping|solutionrelative:toolsshopping\\masterpagemain.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping|C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\toolsshopping\\masterpagemain.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping|solutionrelative:toolsshopping\\masterpagemain.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33385142-2953-4CA1-8557-CF1DBB6665F1}|BLL\\BLL.csproj|C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\bll\\bl_masterpagemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33385142-2953-4CA1-8557-CF1DBB6665F1}|BLL\\BLL.csproj|solutionrelative:bll\\bl_masterpagemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping4\\ToolsShopping|C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\toolsshopping\\masterpagemain.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping4\\ToolsShopping|solutionrelative:toolsshopping\\masterpagemain.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping4\\ToolsShopping|C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\toolsshopping\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping4\\ToolsShopping|solutionrelative:toolsshopping\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping2\\ToolsShopping|C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\toolsshopping\\error404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C0DCB71-BA5C-466F-AAA0-1CC79F8EB1FF}|C:\\Users\\AMINSYSTEM\\Desktop\\ToolsShoppingproject\\ToolsShopping2\\ToolsShopping|solutionrelative:toolsshopping\\error404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinglePage.aspx",
+              "DocumentMoniker": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\SinglePage.aspx",
+              "RelativeDocumentMoniker": "ToolsShopping\\SinglePage.aspx",
+              "ToolTip": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\SinglePage.aspx",
+              "RelativeToolTip": "ToolsShopping\\SinglePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-28T06:47:55.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ToolsShopping\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\Default.aspx.cs",
+              "RelativeToolTip": "ToolsShopping\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:42:58.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BL_MasterPageMain.cs",
+              "DocumentMoniker": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\BLL\\BL_MasterPageMain.cs",
+              "RelativeDocumentMoniker": "BLL\\BL_MasterPageMain.cs",
+              "ToolTip": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\BLL\\BL_MasterPageMain.cs",
+              "RelativeToolTip": "BLL\\BL_MasterPageMain.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:36:04.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterPageMain.master",
+              "DocumentMoniker": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\MasterPageMain.master",
+              "RelativeDocumentMoniker": "ToolsShopping\\MasterPageMain.master",
+              "ToolTip": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\MasterPageMain.master",
+              "RelativeToolTip": "ToolsShopping\\MasterPageMain.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-27T20:24:48.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterPageMain.master.cs",
+              "DocumentMoniker": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\MasterPageMain.master.cs",
+              "RelativeDocumentMoniker": "ToolsShopping\\MasterPageMain.master.cs",
+              "ToolTip": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\MasterPageMain.master.cs",
+              "RelativeToolTip": "ToolsShopping\\MasterPageMain.master.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:33:59.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterPageMain.master",
+              "DocumentMoniker": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\MasterPageMain.master",
+              "RelativeDocumentMoniker": "ToolsShopping\\MasterPageMain.master",
+              "ToolTip": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\MasterPageMain.master",
+              "RelativeToolTip": "ToolsShopping\\MasterPageMain.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-27T07:05:27.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error404.aspx",
+              "DocumentMoniker": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\Error404.aspx",
+              "RelativeDocumentMoniker": "ToolsShopping\\Error404.aspx",
+              "ToolTip": "C:\\Users\\AMINSYSTEM\\Desktop\\my project\\ToolsShoppingproject\\ToolsShopping5\\ToolsShopping\\Error404.aspx",
+              "RelativeToolTip": "ToolsShopping\\Error404.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANeSURBVDhPpVRNTBNdFD0z7QxDS2GwRqUqKhAioTEaowuMhA0aDbpQPw0JiTsXJm51Zapx58IYly6MC6MkRjdEXWD8AetPRPytJsV8KmgBSe3UtvPTDjPe9xyLkRIXnszkvXvnvfPOnXvfFfAH8vl8gyiKIzSN/PT8Ha7rngwGgyfYfEHC/v7\u002BSDKZ9LzzQWsQDofR3d2NxsbGpCzLlwKBwCm/930eGJle0NEejXqeOaRSKcTjDxAKhSAIAjo7O1sJfYVCwbcgIQMjO7D/gGfNYeTZCIaHh5DNZok4zn2ksLWlpSUmcusfkMlkiHwYg4OD3P5nQoZcLod0Os3n5aTout5LQy9lTKFxK4WiqHUq2traWBbhOC5fx6BlNbwfG/MscIWmZSIWi8HHHIxMt91Dn/L29sEvZvPNCcP/XK/C21IQiRwwY7qorxIhiwLogaIoiESWl9/xiXEeeldXF3xUJj3WrHvsnWZvuZMyMTRp4uJYHqYg4XUWeDRjwUcshVlgEZEG/T9Jf0cikSgTUjmJA9Oms/n6xwJujOtYp0qQaMfRaAj7VlejThLRFPThHEkd\u002BlqEZs\u002BFXgk8KQOfDFi0sK8pgJ6VVVB8cxIaAiL\u002BI\u002BKDzQG8TBfxdKZEKubdhzJ4Hb5IW3g4beHRVwFX/hehFR2cfpPD95KLLM0PP85g0nC4f03IT8XM8lZZqcg2zJgOVlBY2yIK2utZyEBTjR/Lqn085I1hGT0rFK68QJGw27EQRIvKwaHTllWL2LBIQlT1Q6INTaSE\u002BWplgfvZWyctTPQL/iWKDzV\u002BETc/G7idsri6bMnB\u002BWQBNh1GUePIEw0mZblE9bitwWYNBIZhehSAaRjezPuH7fUyVDp982IJ6yjkvXfTOLmhFomMjTdaCWc21eHGZxOvNBvGl/e4EH\u002BM0dFRTsBgEGHUayKccMfKalz74ODeVJH/HxKIellEDR3C1D77VsLtSQs7GwPoaG5BbXsYHR0dnOAXVFXlo0At50Su5PbGp63W4SkTmjWLqx907FiuYIqSNUEV3UMHVlFB71kdxFpVuke5us93VwD/y3T1jueKTl/yu916a8KgUIsoendXJaXrKcu7VgWwVBGfyoJ7lvrgZf6xAsppY0op3JhnVgQ1id3U6gc8swKAHzzJadxxZt9cAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-02-26T14:43:48.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
